@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f9aef192054182ac6f1f2b4aeb4746c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\35c55516ffb99f035844f4bc7ca6edd3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d4effc885df6cc4661074db4be7132a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fdd04119972db4ad120ea00afaea6d5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c44b3814405633b8773607c241111d13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3e91d2609d3686cbb9dcc2ab740106c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5605e3fb5c7935646b67cc49a5083d95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0fe982fb4928e16083229c7249816b60\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\71300785da685eefee643efd165edae5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12b66b614e77166194ed4cfc17c9a3ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dbae0a735618e7f72a02d540e18bd95d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\39f61d317f5c8d50aa83e99c89b222b9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\35c55516ffb99f035844f4bc7ca6edd3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\35c55516ffb99f035844f4bc7ca6edd3\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.clego.cv.MainActivity
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.clego.cv.ExperienceActivity
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:20:9-23:20
+	android:label
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:21:13-47
+activity#com.example.clego.cv.FormationActivity
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:26:13-46
+activity#com.example.clego.cv.CompetencesActivity
+ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml:31:13-48
+uses-sdk
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f9aef192054182ac6f1f2b4aeb4746c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f9aef192054182ac6f1f2b4aeb4746c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\35c55516ffb99f035844f4bc7ca6edd3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\35c55516ffb99f035844f4bc7ca6edd3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d4effc885df6cc4661074db4be7132a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d4effc885df6cc4661074db4be7132a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fdd04119972db4ad120ea00afaea6d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fdd04119972db4ad120ea00afaea6d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c44b3814405633b8773607c241111d13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c44b3814405633b8773607c241111d13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3e91d2609d3686cbb9dcc2ab740106c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3e91d2609d3686cbb9dcc2ab740106c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5605e3fb5c7935646b67cc49a5083d95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5605e3fb5c7935646b67cc49a5083d95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0fe982fb4928e16083229c7249816b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0fe982fb4928e16083229c7249816b60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\71300785da685eefee643efd165edae5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\71300785da685eefee643efd165edae5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12b66b614e77166194ed4cfc17c9a3ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12b66b614e77166194ed4cfc17c9a3ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dbae0a735618e7f72a02d540e18bd95d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dbae0a735618e7f72a02d540e18bd95d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\39f61d317f5c8d50aa83e99c89b222b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\clego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\39f61d317f5c8d50aa83e99c89b222b9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\clego\AndroidStudioProjects\CV\app\src\main\AndroidManifest.xml
